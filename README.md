@@ -1,0 +1,1 @@
+# UI-Screenshot-Classification-by-fine-tuning-CLIP
