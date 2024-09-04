@@ -13,7 +13,6 @@ This project implements a UI screenshot classification system by fine-tuning the
 - `finetuning-clip-notebook.py`: Script for fine-tuning the CLIP model.
 - `README.md`: This file, containing project documentation.
 - `streamlit_classification.py`: Streamlit app for deploying the classification model.
-- `requirements.txt`: Requirements to run the finetuning and the streamlit app.
 
 ## Features
 
@@ -36,7 +35,7 @@ This project implements a UI screenshot classification system by fine-tuning the
    pip install -r requirements.txt
    ```
 
-   Note: The `requirements.txt` file shown is just a `pip freeze` of my local environment. 
+   Note: The requirements.txt file is not shown in the project structure. Make sure to create one with all the necessary dependencies.
 
 ## Usage
 
