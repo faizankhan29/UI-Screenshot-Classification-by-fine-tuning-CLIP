@@ -3,7 +3,7 @@
 This project implements a UI screenshot classification system by fine-tuning the OpenAI CLIP (Contrastive Language-Image Pre-Training) model. It classifies UI screenshots into 28 different app categories such as Sports, Travel, Dating, etc.
 ![Screenshot 2024-09-04 at 1 53 11 PM](https://github.com/user-attachments/assets/27fd5a3d-7600-4e41-bcc5-00686b467295)
 ![Screenshot 2024-09-04 at 1 55 25 PM](https://github.com/user-attachments/assets/60f4cc40-e56d-43ca-935f-98ad819a65ea)
-![Screenshot 2024-09-04 at 1 53 11 PM](https://github.com/user-attachments/assets/27fd5a3d-7600-4e41-bcc5-00686b467295)
+![Screenshot 2024-09-04 at 1 46 23 PM](https://github.com/user-attachments/assets/44a24732-285f-4e65-925e-b4de40c7b32e)
 
 
 ## Project Structure
