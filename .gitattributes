@@ -1,0 +1,1 @@
+clip_finetuned.pth filter=lfs diff=lfs merge=lfs -text
