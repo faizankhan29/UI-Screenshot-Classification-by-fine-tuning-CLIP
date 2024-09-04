@@ -85,13 +85,6 @@ Note: These metrics represent the initial performance. Further optimization and 
 - Implement data augmentation techniques to improve model generalization.
 - Explore ensemble methods or other advanced techniques to boost performance.
 
-## Contributing
-
-Contributions to improve the model's performance or extend its functionality are welcome. Please feel free to submit pull requests or open issues to discuss potential improvements.
-
-## License
-
-[Specify your chosen license here]
 
 ## Acknowledgements
 
