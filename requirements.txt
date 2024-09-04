@@ -4,7 +4,7 @@ torchvision
 Pillow
 numpy
 matplotlib
-clip
+clip==1.0
 transformers
 tqdm
 scikit-learn
